@@ -11,39 +11,17 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "",
+        "tab": "Legal",
         "groups": [
           {
-            "group": "",
+            "group": "Legal 2",
             "pages": [
-              "",
-              "",
-              ""
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "",
-        "groups": [
-          {
-            "group": "",
-            "pages": [
-              ""
+              "Test Lega"
             ]
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "",
-          "href": "",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
