@@ -10,30 +10,26 @@
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
+      {
+        "tab": "",
+        "groups": [
           {
             "group": "",
             "pages": [
-          
+              "",
+              "",
+              ""
             ]
           }
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "",
             "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              ""
             ]
           }
         ]
@@ -42,18 +38,8 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "",
+          "href": "",
           "icon": "newspaper"
         }
       ]
@@ -79,13 +65,7 @@
   "contextual": {
     "options": [
      "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
+     "view"
    ]
   },
   "footer": {
