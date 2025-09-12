@@ -14,9 +14,9 @@
         "tab": "Legal",
         "groups": [
           {
-            "group": "Legal 2",
+            "group": "Legal Agreements",
             "pages": [
-              "Test Lega"
+              "/legal-agreements/terms.mdx"
             ]
           }
         ]
