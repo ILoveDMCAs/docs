@@ -16,7 +16,8 @@
           {
             "group": "Legal Agreements",
             "pages": [
-              "/legal-agreements/terms"
+              "/legal-agreements/terms",
+              "legal-agreements/privacy"
             ]
           }
         ]
